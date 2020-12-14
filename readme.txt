@@ -6,3 +6,4 @@ Creating a new branch is quick
 Creating a new branch is quick and simple
 Branch management is simple
 Branch bug 101
+Git is a free software
